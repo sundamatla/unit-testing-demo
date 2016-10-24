@@ -15,5 +15,4 @@ export class MyService{
         }
         return result;
     }
-
 }
